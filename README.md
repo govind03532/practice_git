@@ -1,3 +1,5 @@
-# practice_git
- pull and merge options
-This is a test feature 2
+GitHub practise <br>
+This feature 1 <br>
+This feature 2 <br>
+@ Limited period offer for bhausaheb
+@Bhausaheb if you accept my code I'll give you treat
